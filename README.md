@@ -11,7 +11,7 @@
 
 ### It will automatically compile the HelloWorld.java file by the installed JDK on your device to a HelloWorld.class file and then run it by JVM (JRE).
 
-### `Hope you like it :)`
+### Hope you like it :)
 
 ---
 ## Contact
