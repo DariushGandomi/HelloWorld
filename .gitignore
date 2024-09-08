@@ -34,6 +34,6 @@ HelloWorld.iml
 ### IntellijIDEA ###
 .idea
 
-### MANIFEST ###
+### MANIFEST.MF ###
 src/META-INF
 
