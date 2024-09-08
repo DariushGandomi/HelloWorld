@@ -1,7 +1,7 @@
 # Hello World Project
 
 ---
-### It’s not that hard of a task, but there are always simple yet important things to consider while implementing your ideas into lines of code.
+### It’s not that hard of a task, but there are always _simple yet important_ things to consider while implementing your ideas into lines of code.
 
 ### In this Project, I tried to implement the idea of printing "Hello World, hooray !" with suitable class name format (camel case, etc.), enough **spacing between the words and lines** and enough **indentation**, plus, I did my best on adding **not needed files** to *.gitignore* file, then commiting and pushing what's needed to my GitHub.
 
